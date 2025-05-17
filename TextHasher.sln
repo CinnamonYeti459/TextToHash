@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36109.1 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TextHasher", "TextHasher\TextHasher.csproj", "{84698DBC-6CD1-705B-3F43-1E83BE467DAA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TextHasher.Desktop", "TextHasher.Desktop\TextHasher.Desktop.csproj", "{B3D43E45-DB63-822B-CE95-1295E000AA8B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{84698DBC-6CD1-705B-3F43-1E83BE467DAA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{84698DBC-6CD1-705B-3F43-1E83BE467DAA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{84698DBC-6CD1-705B-3F43-1E83BE467DAA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{84698DBC-6CD1-705B-3F43-1E83BE467DAA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B3D43E45-DB63-822B-CE95-1295E000AA8B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B3D43E45-DB63-822B-CE95-1295E000AA8B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B3D43E45-DB63-822B-CE95-1295E000AA8B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B3D43E45-DB63-822B-CE95-1295E000AA8B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {05ADF4F2-2462-4D95-879E-1EDCB54F7867}
+	EndGlobalSection
+EndGlobal
