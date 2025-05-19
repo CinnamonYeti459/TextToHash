@@ -2,6 +2,8 @@
 
 A simple C# Avalonia UI application that converts text into various cryptographic hashes. This project demonstrates hashing algorithms like MD5, SHA-1, SHA-256, and SHA-3 with an easy-to-use interface.
 
+![Demonstration of the MD5 hashing feature with a clear view of the user interface and its functionality](Images/Main.png)
+
 ## Features
 
 - **Multiple Hash Algorithms**  
